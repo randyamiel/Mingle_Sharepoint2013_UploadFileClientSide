@@ -1,0 +1,7 @@
+url: http://site url/_api/web/GetFolderByServerRelativeUrl('/Folder Name')/Files/add(url='a.txt',overwrite=true)
+method: POST
+body: "Contents of file"
+Headers: 
+    Authorization: "Bearer " + accessToken
+    X-RequestDigest: form digest value
+    content-length:length of post body
