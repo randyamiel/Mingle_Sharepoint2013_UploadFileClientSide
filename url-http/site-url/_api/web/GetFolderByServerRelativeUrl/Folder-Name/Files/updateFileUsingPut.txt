@@ -1,0 +1,8 @@
+url: http://site url/_api/web/GetFileByServerRelativeUrl('/Folder Name/file name')/$value
+method: POST
+body: "Contents of file."
+Headers: 
+    Authorization: "Bearer " + accessToken
+    X-RequestDigest: form digest value
+    X-HTTP-Method:"PUT"
+    content-length:length of post body
