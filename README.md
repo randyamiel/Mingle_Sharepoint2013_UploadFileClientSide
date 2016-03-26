@@ -2,7 +2,7 @@
 
 ##Upload a file by using the REST API and jQuery
 
-(c) 2016 Randy Amiel - (randy123@ufl.edu)
+(c) 2016 Randy Amiel
 
 The following project uses the SharePoint 2013 REST API and jQuery AJAX requests to upload a file to the Documents library and to change properties of the list item that represents the file. The context for this solution is that's running on the server. Similar to SharePoint-hosted add-in that uploads files to the add-in web. 
  
